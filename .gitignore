@@ -2,3 +2,10 @@ description.txt
 next_steps.txt
 notes.txt
 service_spec.txt
+
+
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
